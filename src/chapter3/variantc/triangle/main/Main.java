@@ -1,9 +1,9 @@
-package chapter3.variantb.triangle.main;
+package chapter3.variantc.triangle.main;
 
-import chapter3.variantb.triangle.action.Action;
-import chapter3.variantb.triangle.action.InputData;
-import chapter3.variantb.triangle.action.OutputData;
-import chapter3.variantb.triangle.entity.Triangle;
+import chapter3.variantc.triangle.action.Action;
+import chapter3.variantc.triangle.action.InputData;
+import chapter3.variantc.triangle.action.OutputData;
+import chapter3.variantc.triangle.entity.Triangle;
 import java.util.List;
 
 /**

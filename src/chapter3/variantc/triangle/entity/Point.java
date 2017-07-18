@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package chapter3.variantb.triangle.entity;
+package chapter3.variantc.triangle.entity;
 
 import java.util.Random;
 

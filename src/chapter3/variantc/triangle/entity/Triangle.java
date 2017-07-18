@@ -1,4 +1,4 @@
-package chapter3.variantb.triangle.entity;
+package chapter3.variantc.triangle.entity;
 /**
  *
  * @author Sukhocheva Maryana
